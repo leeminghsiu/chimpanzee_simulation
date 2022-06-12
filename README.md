@@ -1,7 +1,7 @@
 ### chimp_simulator by Ming Hsiu Lee
 === How To Run The Program ===
  1. install pygame in your terminal
- 2. run "chimp_simulater.py"
+ 2. run "chimp_simulater.py" with your IDE
  3. adjust the parameters in "global_setting.py"
  4. see what changes after rerun "chimp_simulater.py"
  
