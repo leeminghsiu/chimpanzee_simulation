@@ -1,5 +1,5 @@
 ### chimp_simulator by Ming Hsiu Lee
-=== How To Run The Program ===
+> === How To Run The Program ===
  - install python at:
   https://www.python.org/downloads/
  1. install pygame in terminal
@@ -20,7 +20,7 @@
 
 ![287245764_7534802613260010_8555577397319911161_n](https://user-images.githubusercontent.com/89007851/173249679-a4905a3e-96b2-4b43-ba25-ac2c2b2db698.gif)
 ![287200602_421959506469482_5813033360425710554_n](https://user-images.githubusercontent.com/89007851/173249682-c0d0f6d6-168a-4489-9153-adc2b1337b5a.gif)
- === Thesis ===
+> === Thesis ===
 Project Goal:
 * to simulate animal mating behavior
 * to find out the percentage of male who has mating rightunder different circumstances.
