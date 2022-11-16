@@ -23,7 +23,7 @@
 > === Thesis ===
 Project Goal:
 * to simulate animal mating behavior
-* to find out the percentage of male who has mating rightunder different circumstances.
+* to find out the percentage of male who has mating right under different circumstances.
 
 Male’s (dots) behavior
 * each male chimp has random combat value (CV)
